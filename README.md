@@ -8,6 +8,10 @@
   - Microsoft Certified: Power Platform Fundamentals (PL-900)   
   [Click to view certificate](https://learn.microsoft.com/api/credentials/share/en-gb/GregoryCCallieNPK24R-2682/5CCED939BC64069E?sharingId=E58D25083BA1B5B7)
 
+  - ITIL 4 Foundation
+  Please see attachments for certificate
+- PDF: /certificates/ITIL4-CERT.pdf
+
 
 
 
