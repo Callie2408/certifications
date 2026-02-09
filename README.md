@@ -10,7 +10,7 @@
 
   - ITIL 4 Foundation
   Please see attachments for certificate
-- PDF: /certificates/ITIL4-CERT.pdf
+- PDF: /certificates/ITIL 4 Cert.pdf
 
 
 
