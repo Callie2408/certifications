@@ -14,7 +14,12 @@
 
 ### ITIL 4 Foundation – PeopleCert
 [View Certificate](ITIL%204%20Cert.pdf)  
-**Focus:** IT service management, service value system, incident, problem, and change management
+**Focus:** IT service management, service value system, incident, problem, and change management  
+
+### SQL Data Analyst Associate – DataCamp
+[View Certificate](https://www.datacamp.com/certificate/DAA0012516311251)  
+**Focus:** SQL querying, data cleaning, joins, aggregations, and data analysis for business insights
+
 
 
 
